@@ -16,8 +16,8 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma de ju�
 
 | Nome                                                                                                                                                            | Dificuldade |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/course-schedule-iii/description/) | Médio     |
-| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/course-schedule-iii/description/)                                                                                  | Médio     |
+| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) | Médio     |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/)                                                                                  | Médio     |
 | [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)                                              | Difícil       |
 
 
