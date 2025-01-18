@@ -16,9 +16,9 @@ Este projeto tem como objetivo a resolução de exercícios da plataforma de ju�
 
 | Nome                                                                                                                                                            | Dificuldade |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/count-of-smaller-numbers-after-self/?envType=problem-list-v2&envId=divide-and-conquer) | Médio     |
-| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/reverse-pairs/description/)                                                                                  | Médio     |
-| [630. Course Schedule III](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                                              | Difícil       |
+| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/course-schedule-iii/description/) | Médio     |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/course-schedule-iii/description/)                                                                                  | Médio     |
+| [630. Course Schedule III](https://leetcode.com/problems/course-schedule-iii/description/)                                              | Difícil       |
 
 
 ## Screenshots
