@@ -6,15 +6,15 @@ class Solution:
             return abs(ponto1[0] - ponto2[0]) + abs(ponto1[1] - ponto2[1])
 
         qtdpts = len(points)
-        vertices = []
+        arestas = []
 
         for i in range(qtdpts):
             for j in range(i + 1, qtdpts):
                 distancia = c_distancia(points[i], points[j])
-                vertices.append((distancia, i, j))
+                arestas.append((distancia, i, j))
 
         #Ordenar arestas por peso ASC
-        vertices.sort()
+        arestas.sort()
 
         #UF
         nome_arvore = list(range(qtdpts))
@@ -38,15 +38,15 @@ class Solution:
                     rank[rootX] += 1
 
         #Construir a Árvore Geradora Mínima (MST)
-        custo = 0
+        custo_total = 0
         usadas = 0 #Num de arestas não descartadas
 
-        for cost, u, v in vertices:
+        for custo, u, v in arestas:
             if find(u) != find(v):
                 union(u, v)
-                custo += cost
+                custo_total += custo
                 usadas += 1
                 if usadas == qtdpts - 1:  #Todos os pontos conectados sem ciclos
                     break
 
-        return custo
+        return custo_total

@@ -56,4 +56,4 @@ Para rodar os códigos, acesse o site do [LeetCode](https://leetcode.com/), faç
 
 ## Link da apresentação
 
-[Apresentação]()
+[Apresentação](https://youtu.be/w7dNAoCbVCY)
