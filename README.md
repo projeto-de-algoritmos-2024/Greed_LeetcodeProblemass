@@ -1,45 +1,45 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Greed_LeetcodeProblemas
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Algoritmos Ambiciosos (Greed)<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| Matrícula  | Aluno                             |
+| ---------- | --------------------------------- |
+| 22/1008024 | Eduardo Matheus dos Santos Sandes |
+| 22/1008267 | Lucas Gama de Araújo Bottino      |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+Este projeto tem como objetivo a resolução de exercícios da plataforma de juíz online [LeetCode](https://leetcode.com/) sobre o conteúdo: Algoritmos ambiciosos (Greed), as soluções foram implementadas utilizando a linguagem Python3.
+
+## Questões
+
+| Nome                                                                                                                                                            | Dificuldade |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| [646. Maximum Length of Pair Chain](https://leetcode.com/problems/count-of-smaller-numbers-after-self/?envType=problem-list-v2&envId=divide-and-conquer) | Médio     |
+| [1584. Min Cost to Connect All Points](https://leetcode.com/problems/reverse-pairs/description/)                                                                                  | Médio     |
+| [630. Course Schedule III](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                                              | Difícil       |
+
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+
+### 646. Maximum Length of Pair Chain
+
+![646. Maximum Length of Pair Chain](images/submission646.png)
+
+### 1584. Min Cost to Connect All Points
+
+![1584. Min Cost to Connect All Points](images/submission1584.png)
+
+### 630. Course Schedule III
+
+![630. Course Schedule III](images/submission630.png)
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: Python3<br>
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+Para rodar os códigos, acesse o site do [LeetCode](https://leetcode.com/), faça login e pesquise a questão. Depois, selecione a linguagem correta, copie e cole o código na aba "Code", selecione a linguagem "Python3" e clique em "Run" para testar ou "Submit" para enviar a solução.
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+## Link da apresentação
+[Apresentação]()
