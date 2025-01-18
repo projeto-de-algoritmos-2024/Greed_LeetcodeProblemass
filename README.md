@@ -1,6 +1,6 @@
 # Greed_LeetcodeProblemas
 
-**Número da Lista**: X<br>
+**Número da Lista**: 9<br>
 **Conteúdo da Disciplina**: Algoritmos Ambiciosos (Greed)<br>
 
 ## Alunos
